@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Amicably24
+- 👀 I’m interested in data analytic projects
+- 🌱 I’m currently learning Data science
+- 💞️ I’m looking to collaborate with data analytics and data scientist to execute projects and deduce actionable insights
